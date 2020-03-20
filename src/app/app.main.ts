@@ -21,6 +21,6 @@ angular
     });
     angular.extend($datepickerProvider.defaults, {
       dateFormat: "d/M/yyyy",
-      autoopen2: true
+      autoclose: true
     });
   });
